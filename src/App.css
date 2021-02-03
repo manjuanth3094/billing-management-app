@@ -1,0 +1,20 @@
+.customercard {
+  display: grid;
+  grid-template: auto/repeat(4, 1fr);
+  grid-gap: 5px;
+  margin-bottom: 35px;
+}
+.productcard {
+  display: grid;
+  grid-template: auto/repeat(4, 1fr);
+  grid-gap: 5px;
+  margin-bottom: 35px;
+}
+.billcard {
+  display: grid;
+  grid-template: auto/repeat(4, 1fr);
+  grid-gap: 5px;
+  margin-bottom: 35px;
+}
+
+
